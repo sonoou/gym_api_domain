@@ -1,1 +1,1 @@
-https://stem-adam-ddr-antiques.trycloudflare.com
+https://api.trycloudflare.com
